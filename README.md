@@ -1,0 +1,2 @@
+# Christmas-PCB-design
+This is projected for https://jlcpcb.com  This PCB, was created inspired by one of the most beautiful histories in the world. A history about the love between a creator and his creation.  The true christmas is not about a lot of gifts, but about love, hope, freedom and communion with the family and people that we love.  That's why this circuit remembers a jingle bell anouncing the born of Christ.  A merry christmas to everybody and a 2021 guided by hope and faith.
